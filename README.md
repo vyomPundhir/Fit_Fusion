@@ -10,6 +10,6 @@
 
 ## You can Check it Live on Below Link :
 
-> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)]()
+> [![Live Link](https://img.shields.io/badge/DEPLOYED-LINK-green)](fit-fusion-mk.netlify.app/)
 
 ---
